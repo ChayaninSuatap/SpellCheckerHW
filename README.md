@@ -1,1 +1,4 @@
-SpellCheckerHW
+optimize โดยดูอักษรที่น่าจะพิมพ์ผิดบ่อย ๆ จากไฟล์ TELEMARKDAT 
+ทำให้ขนาด Dict ลดลงจากประมาณ 430,000 เหลือ 80,000
+
+![](Capture.PNG)
